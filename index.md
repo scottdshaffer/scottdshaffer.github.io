@@ -2,18 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Maps and graphs 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[3D map of Hennepin Couty population density](/sample_page)
+<img src="images/3d map_2.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tree map of city and county population in Minnesota](/pdf/sample_presentation.pdf)
+<img src="images/chart1_treemap_2.png"/>
+
+---
+[Travel behavior by income and neighborhood population density](http://example.com/)
+<img src="images/chart16_nhts_2.png"/>
+
+---
+[Bivariate choropleth map of Hennepin County](http://twitter.com/scttdvd)
+<img src="images/chart15_bivariate_2.png"/>
 
 ---
 
