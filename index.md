@@ -6,7 +6,7 @@
 
 
 [3D map of Hennepin Couty population density](https://github.com/scottdshaffer/3d-hennepin-map)
-<img src="images/3d map_2.png"/>
+<img src="images/3d_thumbnail2.png"/>
 
 ---
 [Tree map of city and county population in Minnesota](/pdf/sample_presentation.pdf)
@@ -14,8 +14,7 @@
 
 ---
 [Travel behavior by income and neighborhood population density](http://example.com/)
-<img src="images/3d_thumbnail2.png"/>
-
+<img src="images/chart16_nhts_2.png"
 ---
 [Bivariate choropleth map of Hennepin County](https://github.com/scottdshaffer/bivariate-choropleth)
 <img src="images/chart15_bivariate_2.png"/>
