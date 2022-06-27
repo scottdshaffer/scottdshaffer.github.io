@@ -14,7 +14,7 @@
 
 ---
 [Travel behavior by income and neighborhood population density](http://example.com/)
-<img src="images/chart16_nhts_2.png"/>
+<img src="images/3d_thumbnail2.png"/>
 
 ---
 [Bivariate choropleth map of Hennepin County](https://github.com/scottdshaffer/bivariate-choropleth)
