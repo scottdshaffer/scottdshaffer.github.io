@@ -13,11 +13,11 @@
 <img src="images/chart1_treemap_2.png"/>
 
 ---
-[Travel behavior by income and neighborhood population density](http://example.com/)
+[Faceted bar chart showing travel behavior by income and neighborhood population density](http://example.com/)
 <img src="images/chart16_nhts_2.png">
 
 ---
-[Bivariate choropleth map of Hennepin County](https://github.com/scottdshaffer/bivariate-choropleth)
+[Bivariate choropleth map of race and educational attainment](https://github.com/scottdshaffer/bivariate-choropleth)
 <img src="images/chart15_bivariate_2.png"/>
 
 ---
