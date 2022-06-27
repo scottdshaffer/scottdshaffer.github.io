@@ -5,7 +5,7 @@
 ### Maps and graphs 
 
 
-[3D map of Hennepin Couty population density](/sample_page)
+[3D map of Hennepin Couty population density](https://github.com/scottdshaffer/3d-hennepin-map)
 <img src="images/3d map_2.png"/>
 
 ---
