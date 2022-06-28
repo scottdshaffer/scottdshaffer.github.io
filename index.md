@@ -6,7 +6,7 @@
 
 
 [3D map of Hennepin County population density](https://github.com/scottdshaffer/3d-hennepin-map)
-<img src="images/3d_thumbnail2.png"/>
+[<img src="images/3d_thumbnail2.png"/>](https://github.com/scottdshaffer/3d-hennepin-map)
 
 ---
 [Tree map of city and county population in Minnesota](/pdf/sample_presentation.pdf)
@@ -14,11 +14,11 @@
 
 ---
 [Faceted bar chart showing travel behavior by income and neighborhood population density](https://github.com/scottdshaffer/nhts_summary)
-<img src="images/nhts_thumbnail.png">
+[<img src="images/nhts_thumbnail.png">](https://github.com/scottdshaffer/nhts_summary)
 
 ---
 [Bivariate choropleth map of race and educational attainment](https://github.com/scottdshaffer/bivariate-choropleth)
-<img src="images/chart15_bivariate_2.png"/>
+[<img src="images/chart15_bivariate_2.png"/>](https://github.com/scottdshaffer/bivariate-choropleth)
 
 ---
 
