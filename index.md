@@ -13,7 +13,7 @@
 <img src="images/chart1_treemap_2.png"/>
 
 ---
-[Faceted bar chart showing travel behavior by income and neighborhood population density](http://example.com/)
+[Faceted bar chart showing travel behavior by income and neighborhood population density](https://github.com/scottdshaffer/nhts_summary)
 <img src="images/nhts_thumbnail.png">
 
 ---
