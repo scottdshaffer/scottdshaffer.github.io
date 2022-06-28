@@ -10,7 +10,7 @@
 
 ---
 [Tree map of city and county population in Minnesota](/pdf/sample_presentation.pdf)
-<img src="images/chart1_treemap_2.png"/>
+<img src="images/mn_treemap_thumbnail.png"/>
 
 ---
 [Faceted bar chart showing travel behavior by income and neighborhood population density](https://github.com/scottdshaffer/nhts_summary)
