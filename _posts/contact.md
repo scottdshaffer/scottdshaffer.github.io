@@ -1,5 +1,6 @@
 ---
 layout: contact
-title: "Get in touch"
+title: Get in touch
 ---
-Let's chat!
+
+#Let's chat!
