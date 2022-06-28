@@ -14,7 +14,7 @@
 
 ---
 [Faceted bar chart showing travel behavior by income and neighborhood population density](http://example.com/)
-<img src="images/chart16_nhts_2.png">
+<img src="images/nhts_thumbnail.png">
 
 ---
 [Bivariate choropleth map of race and educational attainment](https://github.com/scottdshaffer/bivariate-choropleth)
